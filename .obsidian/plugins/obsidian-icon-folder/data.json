@@ -3,9 +3,15 @@
     "migrated": 4,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
-    "emojiStyle": "none",
+    "emojiStyle": "twemoji",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "🏎",
+      "RaBook",
+      "SiTypescript",
+      "RaAware",
+      "SiGooglecalendar"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -21,5 +27,9 @@
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":"
-  }
+  },
+  "Calendario": "SiGooglecalendar",
+  "Programación": "RaBook",
+  "Programación/Typescript": "SiTypescript",
+  "Permiso de conducir": "🏎"
 }

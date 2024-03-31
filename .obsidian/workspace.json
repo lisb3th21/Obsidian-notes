@@ -4,51 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0d8ea3f38593401c",
+        "id": "96231fbeb60d6f2d",
         "type": "tabs",
         "children": [
           {
-            "id": "ec15b0ae45aa71e9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "2d94f67d99a0fbb2",
+            "id": "42230aa8e4742b6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-31.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef22913549f84b58",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "fa830dafc7539052",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curso obsidian/Curso typescript.md",
+                "file": "Programación/Typescript/Sin título.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,8 +101,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "01469ee338719650",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cc61fe12d51df757",
@@ -143,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso obsidian/Curso typescript.md",
+                "file": "Programación/Typescript/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso obsidian/Curso typescript.md",
+                "file": "Programación/Typescript/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,12 +163,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso obsidian/Curso typescript.md"
+                "file": "Programación/Typescript/Sin título.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,15 +187,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fa830dafc7539052",
+  "active": "42230aa8e4742b6e",
   "lastOpenFiles": [
+    "Programación/Typescript/Sin título.canvas",
+    "Programación/Typescript/Sin título.md",
+    "Sin título.canvas",
+    "Calendario/2024-04-15 Recargar 15 eur Kobo.md",
+    "Permiso de conducir",
+    "Calendario/(Every F,R,W,T,M) Trabajar.md",
+    "Personal",
+    "Calendario/(Every F,R,W,T,M) Trabajar Viajes el Corte Inglés.md",
+    "Calendario",
+    "Programación/Typescript/Drawing 2024-03-31 15.40.24.excalidraw.md",
+    "Programación/Typescript",
+    "Excalidraw/Drawing 2024-03-31 14.55.20.excalidraw.md",
+    "Programación",
+    "Curso obsidian/Curso typescript.md",
     "Excalidraw/Drawing 2024-03-31 15.03.18.excalidraw.md",
     "2024-03-31.md",
-    "Excalidraw/Drawing 2024-03-31 14.55.20.excalidraw.md",
     "Excalidraw",
     "rgistro/diario",
     "rgistro",
-    "Curso obsidian/Curso typescript.md",
     "Curso obsidian",
     "Untitled.md",
     "Untitled.canvas",
