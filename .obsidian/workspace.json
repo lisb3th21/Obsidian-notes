@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "7ca8f09cabd79c28",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d8ea3f38593401c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec15b0ae45aa71e9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d94f67d99a0fbb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-31.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef22913549f84b58",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa830dafc7539052",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curso obsidian/Curso typescript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39e5d128acd469f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4430b197e3687fba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54be505f5ba7d425",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "a812b6513571b6e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "e6cc42e24711559c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5702038f3461ae7d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "b9e265f6f703705e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "de8e5f916f3c1b62",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5e353e06c0139be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be94d6252c263ee7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "cc61fe12d51df757",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "252ab95e3f85731f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Curso obsidian/Curso typescript.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5b0df60e718a19d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Curso obsidian/Curso typescript.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf5a9bcdd8596436",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "001bfd4490587074",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Curso obsidian/Curso typescript.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 561.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "fa830dafc7539052",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-03-31 15.03.18.excalidraw.md",
+    "2024-03-31.md",
+    "Excalidraw/Drawing 2024-03-31 14.55.20.excalidraw.md",
+    "Excalidraw",
+    "rgistro/diario",
+    "rgistro",
+    "Curso obsidian/Curso typescript.md",
+    "Curso obsidian",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Excalidraw/Drawing 2024-03-31 12.23.01.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-31 12.19.34.excalidraw.md",
+    "Untitled 1.md",
+    "Untitled"
+  ]
+}
