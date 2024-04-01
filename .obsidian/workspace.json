@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "96231fbeb60d6f2d",
+        "id": "8a82d3889c13300b",
         "type": "tabs",
         "children": [
           {
-            "id": "42230aa8e4742b6e",
+            "id": "eaa00d8178ebfb08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación/Typescript/Sin título.md",
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99339c3c7f2c3e65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,12 +105,13 @@
       {
         "id": "b5e353e06c0139be",
         "type": "tabs",
+        "dimension": 65.31007751937985,
         "children": [
           {
-            "id": "be94d6252c263ee7",
+            "id": "ff86e3ab45b6c15f",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "review-queue-list-view",
               "state": {}
             }
           },
@@ -110,20 +123,28 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "cc61fe12d51df757",
         "type": "tabs",
+        "dimension": 34.689922480620154,
         "children": [
+          {
+            "id": "be94d6252c263ee7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
           {
             "id": "252ab95e3f85731f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación/Typescript/Sin título.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación/Typescript/Sin título.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación/Typescript/Sin título.md"
+                "file": "Dashboard.md"
               }
             }
           }
@@ -171,27 +192,41 @@
       }
     ],
     "direction": "horizontal",
-    "width": 561.5,
-    "collapsed": true
+    "width": 338.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
+      "graph:Abrir vista gráfica": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:Revisar Tarjetas": false
     }
   },
-  "active": "42230aa8e4742b6e",
+  "active": "eaa00d8178ebfb08",
   "lastOpenFiles": [
-    "Programación/Typescript/Sin título.canvas",
-    "Programación/Typescript/Sin título.md",
+    "Rainbell",
+    "Permiso de conducir/Flashcards test.md",
+    "Dashboard.md",
+    "Permiso de conducir/adjuntos/Pasted image 20240401130345.png",
+    "Permiso de conducir/adjuntos/Pasted image 20240401131818.png",
+    "Permiso de conducir/adjuntos/Pasted image 20240401132003.png",
+    "Permiso de conducir/Pasted image 20240401131928.png",
+    "Permiso de conducir/Pasted image 20240401131944.png",
+    "Permiso de conducir/adjuntos",
+    "Permiso de conducir/adjuntos/Pasted image 20240401125603.png",
+    "Permiso de conducir/adjuntos/Pasted image 20240401125523.png",
+    "Permiso de conducir/adjuntos/Pasted image 20240401125236.png",
     "Sin título.canvas",
+    "Permiso de conducir/adjuntos/Pasted image 20240401125600.png",
+    "Permiso de conducir/adjuntos/Pasted image 20240401125335.png",
+    "Programación/Typescript/Aprende Typescript.md",
+    "Programación/Typescript/Sin título.canvas",
     "Calendario/2024-04-15 Recargar 15 eur Kobo.md",
     "Permiso de conducir",
     "Calendario/(Every F,R,W,T,M) Trabajar.md",
@@ -214,7 +249,6 @@
     "Untitled 1.canvas",
     "Excalidraw/Drawing 2024-03-31 12.23.01.excalidraw.md",
     "Excalidraw/Drawing 2024-03-31 12.19.34.excalidraw.md",
-    "Untitled 1.md",
-    "Untitled"
+    "Untitled 1.md"
   ]
 }

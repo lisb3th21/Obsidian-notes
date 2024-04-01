@@ -1,4 +1,8 @@
 {
-  "accentColor": "#f9b4cc",
-  "cssTheme": "Obsidian Nord"
+  "accentColor": "#f5ccda",
+  "cssTheme": "Olivier’s Theme",
+  "interfaceFontFamily": "mononoki Nerd Font Mono",
+  "baseFontSize": 15,
+  "nativeMenus": false,
+  "theme": "moonstone"
 }
