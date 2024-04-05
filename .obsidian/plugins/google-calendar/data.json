@@ -11,11 +11,11 @@
   "autoCreateEventNotesMarker": "obsidian",
   "ignorePatternList": [],
   "autoCreateEventKeepOpen": false,
-  "importStartOffset": 1,
-  "importEndOffset": 1,
+  "importStartOffset": 7,
+  "importEndOffset": 7,
   "optionalNotePrefix": "",
   "eventNoteNameFormat": "{{prefix}}{{event-title}}",
-  "defaultCalendar": "",
+  "defaultCalendar": "poaquizalisbeth0@gmail.com",
   "calendarBlackList": [],
   "insertTemplates": [],
   "useDefaultTemplate": false,
@@ -84,7 +84,9 @@
       "type": "web",
       "theme": "auto",
       "view": "day",
-      "offset": 0
+      "offset": 0,
+      "width": -1,
+      "height": 500
     }
   }
 }

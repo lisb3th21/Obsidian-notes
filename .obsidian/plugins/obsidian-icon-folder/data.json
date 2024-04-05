@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiAngular",
       "🏎",
       "RaBook",
       "SiTypescript",
-      "RaAware",
-      "SiGooglecalendar"
+      "RaAware"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,5 +31,6 @@
   "Calendario": "SiGooglecalendar",
   "Programación": "RaBook",
   "Programación/Typescript": "SiTypescript",
-  "Permiso de conducir": "🏎"
+  "Permiso de conducir": "🏎",
+  "Programación/Angular de cero a experto/Index.md": "SiAngular"
 }

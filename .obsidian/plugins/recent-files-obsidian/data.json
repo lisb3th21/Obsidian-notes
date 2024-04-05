@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "Padre rico padre pobre",
+      "path": "Personal/Biblioteca/Libros/Padre rico padre pobre.md"
+    },
+    {
+      "basename": "La Biblioteca de la Medianoche (AdN)",
+      "path": "Personal/Biblioteca/Libros/La Biblioteca de la Medianoche (AdN).md"
+    },
+    {
+      "basename": "Book template",
+      "path": "_templates/Book template.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
     {
+      "basename": "Llamar Unidents",
+      "path": "Calendario/Llamar Unidents.md"
+    },
+    {
+      "basename": "Bookmarks obsidian",
+      "path": "Personal/Bookmarks/Bookmarks obsidian.md"
+    },
+    {
+      "basename": "Recurring tasks",
+      "path": "back/Recurring tasks.md"
+    },
+    {
+      "basename": "Index",
+      "path": "Programación/Angular de cero a experto/Index.md"
+    },
+    {
+      "basename": "Clase 1",
+      "path": "Programación/Typescript/Clase 1.md"
+    },
+    {
       "basename": "Flashcards test",
       "path": "Permiso de conducir/Flashcards test.md"
+    },
+    {
+      "basename": "(Every F,R,W,T,M) Trabajar",
+      "path": "Calendario/(Every F,R,W,T,M) Trabajar.md"
+    },
+    {
+      "basename": "Aprende Typescript",
+      "path": "Programación/Typescript/Aprende Typescript.md"
+    },
+    {
+      "basename": "Pasted image 20240401125236",
+      "path": "Permiso de conducir/adjuntos/Pasted image 20240401125236.png"
     },
     {
       "basename": "Pasted image 20240401130345",
@@ -21,28 +65,12 @@
       "path": "Permiso de conducir/adjuntos/Pasted image 20240401125523.png"
     },
     {
-      "basename": "Pasted image 20240401125236",
-      "path": "Permiso de conducir/adjuntos/Pasted image 20240401125236.png"
-    },
-    {
       "basename": "Pasted image 20240401125600",
       "path": "Permiso de conducir/adjuntos/Pasted image 20240401125600.png"
     },
     {
       "basename": "Pasted image 20240401125335",
       "path": "Permiso de conducir/adjuntos/Pasted image 20240401125335.png"
-    },
-    {
-      "basename": "Aprende Typescript",
-      "path": "Programación/Typescript/Aprende Typescript.md"
-    },
-    {
-      "basename": "2024-04-15 Recargar 15 eur Kobo",
-      "path": "Calendario/2024-04-15 Recargar 15 eur Kobo.md"
-    },
-    {
-      "basename": "(Every F,R,W,T,M) Trabajar",
-      "path": "Calendario/(Every F,R,W,T,M) Trabajar.md"
     }
   ],
   "omittedPaths": [],
