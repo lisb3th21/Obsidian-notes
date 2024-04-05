@@ -18,3 +18,5 @@ happens this week
 TASK
 SORT file.ctime ASC
 ```
+pdf 
+![[SQL Cookbook Query Solutions and Techniques for All SQL Users (Anthony Molinaro, Robert de Graaf) (Z-Library).pdf]]

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "Llamar Unidents",
+      "path": "Calendario/Llamar Unidents.md"
+    },
+    {
       "basename": "Padre rico padre pobre",
       "path": "Personal/Biblioteca/Libros/Padre rico padre pobre.md"
     },
@@ -11,14 +19,6 @@
     {
       "basename": "Book template",
       "path": "_templates/Book template.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
-      "basename": "Llamar Unidents",
-      "path": "Calendario/Llamar Unidents.md"
     },
     {
       "basename": "Bookmarks obsidian",

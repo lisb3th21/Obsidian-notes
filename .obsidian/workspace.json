@@ -35,8 +35,12 @@
             "id": "ca888be9a7b9afa2",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -207,6 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,6 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +250,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dashboard.md"
+              }
             }
           }
         ],
@@ -273,13 +281,15 @@
   },
   "active": "ca888be9a7b9afa2",
   "lastOpenFiles": [
+    "adjuntos/SQL Cookbook Query Solutions and Techniques for All SQL Users (Anthony Molinaro, Robert de Graaf) (Z-Library).pdf",
+    "adjuntos",
+    "Calendario/Llamar Unidents.md",
+    "Dashboard.md",
     "Personal/Biblioteca/Libros/Padre rico padre pobre.md",
     "Personal/Biblioteca/Libros/La Biblioteca de la Medianoche (AdN).md",
     "Personal/Biblioteca/All books.md",
     "().md",
     "_templates/Book template.md",
-    "Dashboard.md",
-    "Calendario/Llamar Unidents.md",
     "Personal/Bookmarks/Bookmarks obsidian.md",
     "Personal/Biblioteca/Libros/Dune.md",
     "{{coverUrl}}.md",
@@ -306,9 +316,7 @@
     "2024-04-01.md",
     "00 - 每日日记/DailyNote/2024年04月03日.md",
     "00 - 每日日记/DailyNote/2024年04月01日.md",
-    "Rainbell",
     "Homepage/Homepage.md",
-    "00. 算法主页.md",
     "Permiso de conducir/adjuntos/Pasted image 20240401125236.png",
     "Permiso de conducir/adjuntos/Pasted image 20240401130345.png",
     "Permiso de conducir/adjuntos/Pasted image 20240401131818.png",
