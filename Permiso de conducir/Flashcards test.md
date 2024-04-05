@@ -158,3 +158,32 @@ VEHÍCULO ACONDICIONADO
 ?
 Cualquier vehículo cuyas superestructuras fijas o móviles estén especialmente equipadas para el transporte de mercancías a temperaturas dirigidas y en el que el espesor de cada pared lateral, incluido el aislamiento, sea de 45 mm, como mínimo.
 
+
+
+# Pesos, dimensiones, transporte de personas
+
+La carga de un turismo, ¿puede sobresalir por detrás?
+?
+Sí, hasta 1/3 de la longitud del vehículo.
+
+En un vehículo de más de 5 metros, destinado al transporte de mercancías, una carga de longitud indivisible puede sobresalir...
+?
+2 metros por la parte anterior y 3 por la posterior.
+
+Una carga sobresale por la parte trasera de un turismo, ¿debe ir señalizada?
+?
+Sí, tanto de día como de noche.
+
+La carga de un turismo, ¿puede sobresalir por los bordes laterales?
+?
+No
+
+# Seguridad vial
+
+En caso de activarse el sistema avanzado de ayuda a la conducción “**AEBS**”, ¿de qué forma actuará?
+?
+Emitirá un aviso al conductor y si este no responde tomará el control del vehículo para detenerlo.
+
+Los ciclistas, ¿pueden quitarse el casco en vías interurbanas?
+?
+En caso de rampas ascendentes prolongadas, en condiciones extremas de calor o por razones médicas.

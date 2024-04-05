@@ -1,0 +1,61 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Personal/Biblioteca/Libros",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "coverField": "cover",
+            "fitStyle": "contain",
+            "includeFields": [
+              "tag"
+            ],
+            "cardWidth": 200
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "tag",
+                "operator": "is-empty",
+                "enabled": true
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "e622503c-eaf3-4953-894b-c066dd8cf1f0",
+          "name": "Books",
+          "type": "gallery"
+        }
+      ],
+      "id": "83b3ccfd-6ed1-4933-ac3b-6fee5ea1d85d",
+      "name": "Libreria"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-note"
+  }
+}
